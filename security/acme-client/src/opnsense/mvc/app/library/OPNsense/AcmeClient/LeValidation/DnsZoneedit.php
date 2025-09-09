@@ -31,7 +31,7 @@ use OPNsense\AcmeClient\LeValidationInterface;
 use OPNsense\Core\Config;
 
 /**
- * zoneedit API
+ * Zoneedit DNS API
  * @package OPNsense\AcmeClient
  */
 class DnsZoneedit extends Base implements LeValidationInterface
