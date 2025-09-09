@@ -1950,7 +1950,7 @@
         <type>text</type>
     </field>
     <field>
-        <label>zoneedit</label>
+        <label>Zoneedit</label>
         <type>header</type>
         <style>table_dns table_dns_zoneedit</style>
     </field>
