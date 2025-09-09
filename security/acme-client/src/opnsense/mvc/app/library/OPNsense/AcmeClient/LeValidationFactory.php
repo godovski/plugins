@@ -87,7 +87,7 @@ class LeValidationFactory
                 }
             }
         }
-        LeUtils::log_error("challenge type not supported valName: ${val_name} ${srv_found}: " . (string)$search_name . " ({$uuid})");
+        LeUtils::log_error("challenge type not supported: " . (string)$search_name . " ({$uuid})");
         return null;
     }
 }
